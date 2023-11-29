@@ -1,13 +1,13 @@
 Setting,Customize,Hints
 Storymap Info,,"For help, see tutorial in [HandsOnDataViz.org](https://handsondataviz.org/leaflet-storymaps-with-google-sheets.html)"
-Storymap Title,NR491 Leaflet Storymap Demo,
-Storymap Subtitle,Colleges and Universities in Wake County<br><small>Scroll down<i class='fafa-chevron-down'></i></small>,"Add your subtitle, or delete that portion"
-Storymap Logo,media/ncsu_logo.jpg,Path to a logo image
+Storymap Title,"Daily PM2.5 Air Quality Forecast Across All US and NC Counties on Nov 8 th, 2023",
+Storymap Subtitle,StoryMap by Shamik Bhattacharya,"Add your subtitle, or delete that portion"
+Storymap Logo,,Path to a logo image
 Google Analytics Tracking ID,,Sample format: UA-5488840-29
 Map Settings,,
 Basemap Tiles,CartoDB.Positron,[Drop-down menu for background basemap tiles](https://leaflet-extras.github.io/leaflet-providers/preview/)
 Zoom Controls,bottomright,
-Narrative Background Color,lightgray,
+Narrative Background Color,light gray,
 Narrative Text Color,,
 Narrative Link Color,,
 Active Chapter Background Color,,
@@ -16,6 +16,6 @@ Pixels After Final Chapter,600,"In pixels, at least 100"
 Enable Lightbox for Images,yes,yes or no
 Credits,,
 Author Name,Shamik Bhattacharya,"Appears in map credits as ""View data by..."" (or leave blank)"
-Author Email or Website,,Create link in Author Name by inserting your email or web address (or leave blank)
+Author Email or Website,sbhatt23@ncsu.edu,Create link in Author Name by inserting your email or web address (or leave blank)
 Author GitHub Repo Link,https://github.com/handsondataviz/leaflet-storymaps-with-google-sheets,"Insert your code repo URL to appear as link in ""View code..."" (or leave blank)"
 Code Credit,"<a href=""https://handsondataviz.org"">HandsOnDataViz</a>","Appears in credits as ""...code by..."" (or leave blank)"
