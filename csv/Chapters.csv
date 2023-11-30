@@ -1,10 +1,4 @@
-,Unnamed: 0,Chapter,Media Link,Media Credit,Media Credit Link,Description,Zoom,Marker,Marker Color,Location,Latitude,Longitude,Overlay,Overlay Transparency,GeoJSON Overlay,GeoJSON Feature Properties
-0,0,Overview of Raleigh,./media/output.png (NC) .png,,,"In the graphic above, the map of the NC is depicted in the following numerical order: Good (1), Moderate (2), Unhealthy for Sensitive Groups (3), Unhealthy (4), Very Unhealthy (5), and Hazardous (6) are the classifications. I just plotted data on November 8.",8.0,Hidden,,NC,35.40077487068061,-79.78394408498947,https://mapwarper.net/maps/tile/51816/{z}/{x}/{y}.png,0.9,,
-1,1,Peace College,media/peace.jpg,Image Source: Niche,https://www.niche.com/colleges/william-peace-university/,"William Peace University was founded in 1857. It's motto is     <em>Esse quam videri</em> - ""To be, rather than to seem"".",16.0,Plain,blue,15 E PEACE ST,35.7882396,-78.6373757,,,,
-2,2,Shaw University,,,,,16.0,Plain,blue,118 E SOUTH ST,35.771817,-78.6379858,,,,
-3,3,Saint Augustines College,,,,,16.0,Plain,blue,1315 OAKWOOD AVENUE,35.7844945,-78.6206819,,,,
-4,4,North Carolina State University At Raleigh,https://www.youtube.com/embed/aZQFQnbs_Ho,,,,16.0,Plain,blue,2200 HILLSBOROUGH STREET,35.7864724,-78.6644827,,,geojson/NCSU_campuses.geojson,fillColor:red;color:black
-5,5,Meredith College,,,,,16.0,Plain,blue,3800 HILLSBOROUGH ST,35.7945245,-78.6880408,,,,
-6,6,Wake Technical Community College,,,,,16.0,Plain,blue,9101 FAYETTEVILLE ROAD,35.6506362,-78.706852,,,geojson/wake_co_census_colored_AWATER.geojson,fillColor:gray;color:white
-7,7,University Of Phoenix-Raleigh Campus,,,,,16.0,Plain,blue,5511 CAPITAL CENTER DRIVE STE. 380,35.7672436,-78.7290806,,,,
-8,8,School Of Communication Arts,,,,,16.0,Plain,blue,3000 WAKEFIELD CROSSING DRIVE,35.9427849,-78.5562419,,,,
+,Setting,Customize,Hints,Media Link,Media Credit,Media Credit Link,Description,Zoom,Marker,Marker Color,Location,Latitude,Longitude,GeoJSON Overlay,GeoJSON Feature Properties
+0,Introduction to the World,,,./media/output.png (NC) .png,,,"In the graphic above, the map of the NC is depicted in the following numerical order: Good (1), Moderate (2), Unhealthy for Sensitive Groups (3), Unhealthy (4), Very Unhealthy (5), and Hazardous (6) are the classifications. I just plotted data on November 8.",8.0,Hidden,,NC,35.40077487068061,-79.78394408498947,/Users/shamikbhattacharya/Desktop/GIS495/SB_leaflet_1/geojson/US_counties.geojson,fillColor:green;color:black
+1,"Daily PM2.5 Air Quality Forecast Across All US Counties on Nov 8 th, 2023",,,,,,,,,,,,,,
+2,"Daily PM2.5 Air Quality Forecast Across All NC Counties on Nov 8 th, 2023",,,,,,,,,,,,,,
